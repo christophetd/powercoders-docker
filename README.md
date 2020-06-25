@@ -1,8 +1,8 @@
 # Docker exercises
 
-- [Exercise 0 - Install Docker](Exercise 0 - Install Docker/README.md)
-- [Exercise 1 - Basic Dockerfile](Exercise 1 - Basic Dockerfile/README.md)
-- [Exercise 1 - Basic Dockerfile](Exercise 1 - Basic Dockerfile/README.md)
+- Exercise 0 - Install Docker
+- Exercise 1 - Basic Dockerfile
+- Exercise 2 - Environment variables and exposing ports
 
 ## Useful commands
 
